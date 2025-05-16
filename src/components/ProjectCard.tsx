@@ -1,5 +1,3 @@
-import React from "react";
-
 type ProjectCardProps = {
     imgUrl: string;
     title: string;
